@@ -7,3 +7,4 @@ New line from Ksenia Genko
 Gleb Kulikov
 Здесь был Глеб Валеев
 Животов Сергей
+Максим Олифиренко

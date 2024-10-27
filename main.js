@@ -94,6 +94,7 @@ let gameArea = document.getElementById("gameArea");
 let gameWinner = document.getElementById("Winner");
 let spanWin= document.getElementById("spanWin");
 let btnNewGame = document.getElementById("btnNewGame");
+let btnClose = document.getElementById("btnClose");
 
 // функция завершения игра
 let endGame = (winner) => {
@@ -105,3 +106,7 @@ let endGame = (winner) => {
 btnNewGame.addEventListener('click', () => {
     document.location.reload();
 })
+
+btnClose.addEventListener("click", () => {
+    window.close();
+});
