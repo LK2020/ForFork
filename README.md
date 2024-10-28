@@ -8,3 +8,4 @@ Gleb Kulikov
 Здесь был Глеб Валеев
 Животов Сергей
 "My name Nomina" 
+"Nomina Tarnueva"
